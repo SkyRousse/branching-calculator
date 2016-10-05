@@ -4,7 +4,7 @@
 
 ## Description
 
-__More practice with JS. Write functions to determine the type of triangle given the lengths of each side.__
+__Simple calculator project to practice JS using conditionals to determine calculation type.__
 
 ## Setup/Installation Requirements
 
